@@ -130,7 +130,7 @@
             "name": "Ng. Inspector",
             "panel": "top",
             "foldername": "ngInspector",
-            "enabled": false
+            "enabled": true
         },
         {
             "id": "OFFICE",
